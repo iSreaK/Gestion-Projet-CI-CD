@@ -1,0 +1,28 @@
+{"event":"HEALTH_CHECK_ERROR","level":"error","message":"connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2025-09-19T08:28:40.754Z"}
+{"level":"info","message":{"event":"HEALTH_CHECK","status":"ok"},"timestamp":"2025-09-19T08:28:44.052Z"}
+{"level":"info","message":{"event":"HEALTH_CHECK","status":"ok"},"timestamp":"2025-09-19T08:28:44.782Z"}
+{"level":"info","message":{"event":"HEALTH_CHECK","status":"ok"},"timestamp":"2025-09-19T08:28:45.162Z"}
+{"level":"info","message":{"event":"HEALTH_CHECK","status":"ok"},"timestamp":"2025-09-19T08:28:45.389Z"}
+{"event":"DB_INIT","level":"info","message":"Database initialized/connected","timestamp":"2025-09-19T08:28:46.563Z"}
+{"level":"info","message":{"event":"CREATE_USER","fullname":"Test User 2","uuid":"317e9fb8-5c72-4d36-8853-b3064e9e2633"},"timestamp":"2025-09-19T08:28:49.352Z"}
+{"event":"DB_INIT","level":"info","message":"Database initialized/connected","timestamp":"2025-09-19T08:37:35.975Z"}
+{"event":"DB_INIT","level":"info","message":"Database initialized/connected","timestamp":"2025-09-19T08:41:06.538Z"}
+{"event":"DB_INIT","level":"info","message":"Database initialized/connected","timestamp":"2025-09-19T08:47:33.676Z"}
+{"event":"TEST_LOG_INFO","level":"info","message":"Log info de test généré au démarrage","timestamp":"2025-09-19T08:47:33.687Z"}
+{"event":"TEST_LOG_WARN","level":"warn","message":"Log warning de test généré au démarrage","timestamp":"2025-09-19T08:47:33.688Z"}
+{"event":"TEST_LOG_ERROR","level":"error","message":"Log error de test généré au démarrage","timestamp":"2025-09-19T08:47:33.688Z"}
+{"level":"info","message":{"event":"HEALTH_CHECK","status":"ok"},"timestamp":"2025-09-19T08:47:33.821Z"}
+{"level":"info","message":{"event":"HEALTH_CHECK","status":"ok"},"timestamp":"2025-09-19T08:47:37.373Z"}
+{"level":"info","message":{"count":3,"endpoint":"/api/users","event":"LIST_USERS"},"timestamp":"2025-09-19T08:47:40.625Z"}
+{"event":"DB_INIT","level":"info","message":"Database initialized/connected","timestamp":"2025-09-19T08:56:40.477Z"}
+{"level":"info","message":{"event":"HEALTH_CHECK","status":"ok"},"timestamp":"2025-09-19T08:56:40.659Z"}
+{"event":"TEST_LOG_INFO","level":"info","message":"Log info de test généré au démarrage","timestamp":"2025-09-19T08:56:40.672Z"}
+{"event":"TEST_LOG_WARN","level":"warn","message":"Log warning de test généré au démarrage","timestamp":"2025-09-19T08:56:40.673Z"}
+{"event":"TEST_LOG_ERROR","level":"error","message":"Log error de test généré au démarrage","timestamp":"2025-09-19T08:56:40.673Z"}
+{"event":"DB_INIT","level":"info","message":"Database initialized/connected","timestamp":"2025-09-19T08:57:44.998Z"}
+{"level":"info","message":{"event":"HEALTH_CHECK","status":"ok"},"timestamp":"2025-09-19T08:57:45.194Z"}
+{"event":"TEST_LOG_INFO","level":"info","message":"Log info de test généré au démarrage","timestamp":"2025-09-19T08:57:45.218Z"}
+{"event":"TEST_LOG_WARN","level":"warn","message":"Log warning de test généré au démarrage","timestamp":"2025-09-19T08:57:45.219Z"}
+{"event":"TEST_LOG_ERROR","level":"error","message":"Log error de test généré au démarrage","timestamp":"2025-09-19T08:57:45.220Z"}
+{"level":"info","message":{"event":"HEALTH_CHECK","status":"ok"},"timestamp":"2025-09-19T08:57:50.821Z"}
+{"level":"info","message":{"count":3,"endpoint":"/api/users","event":"LIST_USERS"},"timestamp":"2025-09-19T09:04:44.922Z"}

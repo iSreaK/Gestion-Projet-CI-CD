@@ -1,0 +1,9 @@
+curl -X POST http://localhost:3000/api/users -H "Content-Type: application/json" -d "{\"fullname\":\"Jean Dupont\",\"study_level\":\"Licence\",\"age\":22}"
+
+
+curl -X PUT http://localhost:3000/api/users/52914f0b-365a-4c2a-b3ca-e575b1a73864 -H "Content-Type: application/json" -d "{\"fullname\":\"Jean D.\",\"study_level\":\"Master\",\"age\":23}"
+
+
+
+
+

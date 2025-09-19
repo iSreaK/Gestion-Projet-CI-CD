@@ -1,0 +1,14 @@
+::ffff:172.18.0.1 - - [19/Sep/2025:08:28:40 +0000] "GET /health HTTP/1.1" 500 44 "-" "curl/8.13.0"
+::ffff:172.18.0.1 - - [19/Sep/2025:08:28:44 +0000] "GET /health HTTP/1.1" 200 38 "-" "curl/8.13.0"
+::ffff:172.18.0.1 - - [19/Sep/2025:08:28:44 +0000] "GET /health HTTP/1.1" 200 38 "-" "curl/8.13.0"
+::ffff:172.18.0.1 - - [19/Sep/2025:08:28:45 +0000] "GET /health HTTP/1.1" 200 38 "-" "curl/8.13.0"
+::ffff:172.18.0.1 - - [19/Sep/2025:08:28:45 +0000] "GET /health HTTP/1.1" 200 38 "-" "curl/8.13.0"
+::ffff:172.18.0.1 - - [19/Sep/2025:08:28:49 +0000] "POST /api/users HTTP/1.1" 201 104 "-" "curl/8.13.0"
+::ffff:127.0.0.1 - - [19/Sep/2025:08:47:33 +0000] "GET /health HTTP/1.1" 200 38 "-" "axios/1.12.2"
+::ffff:172.18.0.1 - - [19/Sep/2025:08:47:37 +0000] "GET /health HTTP/1.1" 200 38 "-" "curl/8.13.0"
+::ffff:172.18.0.1 - - [19/Sep/2025:08:47:40 +0000] "GET /api/users HTTP/1.1" 200 310 "-" "curl/8.13.0"
+{"remote_addr":"::ffff:127.0.0.1","method":"GET","url":"/health","status":200,"response_time":20.89,"user_agent":"axios/1.12.2"}
+{"remote_addr":"::ffff:127.0.0.1","method":"GET","url":"/health","status":200,"response_time":19.18,"user_agent":"axios/1.12.2"}
+{"remote_addr":"::ffff:172.18.0.1","method":"GET","url":"/health","status":200,"response_time":2.979,"user_agent":"curl/8.13.0"}
+{"remote_addr":"::ffff:172.18.0.1","method":"GET","url":"/api/users","status":200,"response_time":164.71,"user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"}
+{"remote_addr":"::ffff:172.18.0.1","method":"GET","url":"/favicon.ico","status":404,"response_time":68.36,"user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"}

@@ -1,0 +1,6 @@
+{"event":"HEALTH_CHECK_ERROR","level":"error","message":"connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2025-09-19T08:28:40.754Z"}
+{"event":"TEST_LOG_ERROR","level":"error","message":"Log error de test généré au démarrage","timestamp":"2025-09-19T08:37:35.979Z"}
+{"event":"TEST_LOG_ERROR","level":"error","message":"Log error de test généré au démarrage","timestamp":"2025-09-19T08:41:06.549Z"}
+{"event":"TEST_LOG_ERROR","level":"error","message":"Log error de test généré au démarrage","timestamp":"2025-09-19T08:47:33.688Z"}
+{"event":"TEST_LOG_ERROR","level":"error","message":"Log error de test généré au démarrage","timestamp":"2025-09-19T08:56:40.673Z"}
+{"event":"TEST_LOG_ERROR","level":"error","message":"Log error de test généré au démarrage","timestamp":"2025-09-19T08:57:45.220Z"}
